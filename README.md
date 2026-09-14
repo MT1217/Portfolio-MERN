@@ -109,14 +109,3 @@ Import the pre-configured Postman Collection located at:
   ```bash
   curl -X GET http://localhost:5000/api/contact
   ```
-
----
-
-## 🎥 Screen Recording Checklist (2–3 Minutes)
-
-1. **Projects Loading from Backend**: Open `http://localhost:5173/projects` and demonstrate projects loading dynamically via `GET /api/projects`.
-2. **Project Detail Deep Link**: Click a project or open `http://localhost:5173/projects/nexora`. Show details loaded via `GET /api/projects/:id`. Show invalid ID `http://localhost:5173/projects/invalid-id` displaying "Project not found".
-3. **Contact Form Submission**: Navigate to `/contact`, fill in valid fields, submit, and verify success message alert + auto-reset of input fields.
-4. **Backend Failure & Recovery**: Stop backend server (`Ctrl + C` in server terminal). Refresh or click Projects page to show offline error message. Restart backend server (`npm run dev`) and click **"Retry Connection"** to show instant recovery.
-
-
