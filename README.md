@@ -119,15 +119,4 @@ Import the pre-configured Postman Collection located at:
 3. **Contact Form Submission**: Navigate to `/contact`, fill in valid fields, submit, and verify success message alert + auto-reset of input fields.
 4. **Backend Failure & Recovery**: Stop backend server (`Ctrl + C` in server terminal). Refresh or click Projects page to show offline error message. Restart backend server (`npm run dev`) and click **"Retry Connection"** to show instant recovery.
 
----
 
-## 🤖 AI Assistance Disclosure
-
-In accordance with course assignment guidelines:
-- **AI Tool Used**: Antigravity (Google DeepMind Coding Assistant powered by Gemini).
-- **Scope of AI Assistance**:
-  - Setting up Express server boilerplate code, CORS middleware, and error handling.
-  - Formulating Postman collection JSON structure and cURL commands.
-  - Debugging async fetch state handling for offline server recovery.
-  - Documentation and README structure creation.
-- **Original Code & Logic**: Core UI components, routing, prop drilling structure, and styling were maintained from Assignment 2.
