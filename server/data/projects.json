@@ -1,0 +1,35 @@
+[
+  {
+    "id": "nexora",
+    "title": "Nexora: The Learning Hub",
+    "description": "A full-stack MERN EdTech platform featuring role-based dashboards, Google OAuth authentication, and subscription-based course access. Includes real-time Socket.io chat, Cloudinary multimedia storage, and an automated online examination system with real-time grading and performance analytics.",
+    "tech": [
+      "MongoDB",
+      "Express.js",
+      "React.js",
+      "Node.js",
+      "Socket.io"
+    ],
+    "link": "https://nexora-edtech.vercel.app/"
+  },
+  {
+    "id": "creatorMetrics",
+    "title": "CreatorMetrics",
+    "description": "A professional, normalized, and optimized MySQL Database Management System (DBMS) project designed to aggregate, analyze, and manage earnings and audience metrics for digital content creators across various social channels (YouTube, Facebook, Instagram).",
+    "tech": [
+      "SQL",
+      "ER Modeling"
+    ],
+    "link": "https://github.com/MT1217/CreatorMetrics"
+  },
+  {
+    "id": "RazorpayClone",
+    "title": "RazorpayClone",
+    "description": "A fully responsive clone of the Razorpay landing page built using HTML5 and Tailwind CSS. This project replicates the modern UI, responsive design, and user experience of Razorpay's official website while focusing on frontend development skills.",
+    "tech": [
+      "HTML5",
+      "Tailwind CSS"
+    ],
+    "link": "https://razorpay-clone-mauve-ten.vercel.app/"
+  }
+]
